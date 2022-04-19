@@ -2,8 +2,7 @@
 I am Robiul from Bangladesh and I am a Software Engineer.
 
 ## Github Stats
-![Robiul's stat](https://github-readme-stats.vercel.app/api?username=RobiulHassanPTSL
-&show_icons=true&count_private=true)
+![Robiul's stat](https://github-readme-stats.vercel.app/api?username=RobiulHassanPTSL&show_icons=true&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RobiulHassanPTSL)
 
 ## Skills
